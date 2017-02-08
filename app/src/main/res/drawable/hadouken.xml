@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_00"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_01"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_02"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_03"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_04"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_05"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_06"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_07"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_08"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_09"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_10"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_11"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_12"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_13"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_14"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_15"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_16"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_17"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_18"/>
+
+    <item
+        android:duration="75"
+        android:drawable="@drawable/ryu_19"/>
+
+</animation-list>
